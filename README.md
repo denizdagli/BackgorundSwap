@@ -23,7 +23,7 @@ This project allows you to remove the background from an image and combine it wi
 1. Clone this repository:
    ```bash
    git clone https://github.com/denizdagli/BackgorundSwap.git
-   cd background-remover
+   cd BackgorundSwap
 
 2. Install the required dependencies:
     ```bash
