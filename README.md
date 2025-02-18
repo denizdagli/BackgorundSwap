@@ -16,6 +16,7 @@ This project allows you to remove the background from an image and combine it wi
 - Streamlit
 - rembg
 - Pillow
+- onnxruntime
 
 ## Installation
 
