@@ -35,11 +35,11 @@ This project allows you to remove the background from an image and combine it wi
 
 ## How It Works
 
-__Upload Foreground Image:__ Upload the image from which the background will be removed.
-__Upload Background Image:__ Upload the image that you want to use as the new background.
-__Background Removal:__ The foreground image's background is automatically removed using the rembg library.
-__Image Resizing and Combination:__ The background is resized to match the size of the foreground image. The two images are then combined.
-__Download:__ After the images are combined, you can download the new image with the replaced background.
+- __Upload Foreground Image:__ Upload the image from which the background will be removed.
+- __Upload Background Image:__ Upload the image that you want to use as the new background.
+- __Background Removal:__ The foreground image's background is automatically removed using the rembg library.
+- __Image Resizing and Combination:__ The background is resized to match the size of the foreground image. The two images are then combined.
+- __Download:__ After the images are combined, you can download the new image with the replaced background.
 
 
 ## Usage
@@ -52,3 +52,4 @@ __Download:__ After the images are combined, you can download the new image with
 - Streamlit for building the interactive web application ❤️‍🔥
 - rembg for background removal 💙
 - Pillow for image processing 🩷
+
