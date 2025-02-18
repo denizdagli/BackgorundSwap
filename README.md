@@ -1,4 +1,4 @@
-# 🎨 Background Remover
+# 🎨 Background Swap
 
 This project allows you to remove the background from an image and combine it with a new background of your choice. Using the **rembg** library for background removal and **Streamlit** for the interactive web interface, this app enables users to upload an image, remove its background, and then overlay it onto a new background image.
 
