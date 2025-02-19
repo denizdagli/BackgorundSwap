@@ -3,7 +3,7 @@ from rembg import remove
 from PIL import Image
 import io
 
-st.title("🎨 Background Remover")
+st.title("🎨 Background Swap")
 
 # Request user to upload images
 uploaded_foreground = st.file_uploader("Upload the foreground image", type=["png", "jpg", "jpeg"])
